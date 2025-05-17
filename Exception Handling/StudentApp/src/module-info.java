@@ -1,3 +1,0 @@
-module StudentApp {
-    exports student;
-}
